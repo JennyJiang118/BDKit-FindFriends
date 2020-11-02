@@ -1,0 +1,6 @@
+jcn/WordCount$IntWritableDecreasingComparator.class
+jcn/WordCount$TokenizerMapper.class
+jcn/WordCount.class
+jcn/WordCount$InverseMapper.class
+jcn/WordCount$IntSumReducer.class
+jcn/WordCount$SortReducer.class

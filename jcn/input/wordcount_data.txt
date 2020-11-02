@@ -1,0 +1,10 @@
+Hello World, Bye World!
+Hello Hadoop, Goodbye to Hadoop!
+Hello Spark
+Hello Hbase, hello Hive
+Java
+Python
+Scala
+33
+6
+among
