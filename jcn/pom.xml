@@ -12,7 +12,10 @@
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
 
+<<<<<<< HEAD
   
+=======
+>>>>>>> f489326431d1388933a4e9205499c12aa70d2168
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <maven.compiler.source>1.7</maven.compiler.source>
@@ -50,28 +53,48 @@
 		<artifactId>hadoop-mapreduce-client-core</artifactId>
 		<version>3.2.1</version>
 	</dependency>
+<<<<<<< HEAD
+=======
+
+>>>>>>> f489326431d1388933a4e9205499c12aa70d2168
   </dependencies>
 
   <build>
     <pluginManagement><!-- lock down plugins versions to avoid using Maven defaults (may be moved to parent pom) -->
       <plugins>
+<<<<<<< HEAD
         <!-- clean lifecycle, see https://maven.apache.org/ref/current/maven-core/lifecycles.html#clean_Lifecycle -->
         <plugin>
           <artifactId>maven-clean-plugin</artifactId>
           <version>3.1.0</version>
         </plugin>
         <!-- default lifecycle, jar packaging: see https://maven.apache.org/ref/current/maven-core/default-bindings.html#Plugin_bindings_for_jar_packaging -->
+=======
+        <plugin>
+          <artifactId>maven-clean-plugin</artifactId>
+          <version>3.0.0</version>
+        </plugin>
+        <!-- see http://maven.apache.org/ref/current/maven-core/default-bindings.html#Plugin_bindings_for_jar_packaging -->
+>>>>>>> f489326431d1388933a4e9205499c12aa70d2168
         <plugin>
           <artifactId>maven-resources-plugin</artifactId>
           <version>3.0.2</version>
         </plugin>
         <plugin>
           <artifactId>maven-compiler-plugin</artifactId>
+<<<<<<< HEAD
           <version>3.8.0</version>
         </plugin>
         <plugin>
           <artifactId>maven-surefire-plugin</artifactId>
           <version>2.22.1</version>
+=======
+          <version>3.7.0</version>
+        </plugin>
+        <plugin>
+          <artifactId>maven-surefire-plugin</artifactId>
+          <version>2.20.1</version>
+>>>>>>> f489326431d1388933a4e9205499c12aa70d2168
         </plugin>
         <plugin>
           <artifactId>maven-jar-plugin</artifactId>
@@ -85,6 +108,7 @@
           <artifactId>maven-deploy-plugin</artifactId>
           <version>2.8.2</version>
         </plugin>
+<<<<<<< HEAD
         <!-- site lifecycle, see https://maven.apache.org/ref/current/maven-core/lifecycles.html#site_Lifecycle -->
         <plugin>
           <artifactId>maven-site-plugin</artifactId>
@@ -94,6 +118,8 @@
           <artifactId>maven-project-info-reports-plugin</artifactId>
           <version>3.0.0</version>
         </plugin>
+=======
+>>>>>>> f489326431d1388933a4e9205499c12aa70d2168
       </plugins>
     </pluginManagement>
   </build>

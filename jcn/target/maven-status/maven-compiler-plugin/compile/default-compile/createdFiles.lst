@@ -1,5 +1,14 @@
+<<<<<<< HEAD
 jcn/SharedFriend.class
 jcn/SharedFriend$MutualFriendsReducer.class
 jcn/SharedFriend$FindFriendsReducer.class
 jcn/SharedFriend$MutualFriendsMapper.class
 jcn/SharedFriend$FindFriendsMapper.class
+=======
+jcn/WordCount$IntWritableDecreasingComparator.class
+jcn/WordCount$TokenizerMapper.class
+jcn/WordCount.class
+jcn/WordCount$InverseMapper.class
+jcn/WordCount$IntSumReducer.class
+jcn/WordCount$SortReducer.class
+>>>>>>> f489326431d1388933a4e9205499c12aa70d2168
